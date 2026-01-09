@@ -1,0 +1,125 @@
+category_name,store_name,year,total_revenue
+Children Bicycles,Baldwin Bikes,2016,62184.1793
+Children Bicycles,Baldwin Bikes,2017,103412.6593
+Children Bicycles,Baldwin Bikes,2018,37055.0374
+Children Bicycles,Baldwin Bikes,,202651.876
+Children Bicycles,Rowlett Bikes,2016,8321.4013
+Children Bicycles,Rowlett Bikes,2017,14777.4471
+Children Bicycles,Rowlett Bikes,2018,5035.8064
+Children Bicycles,Rowlett Bikes,,28134.6548
+Children Bicycles,Santa Cruz Bikes,2016,17175.289
+Children Bicycles,Santa Cruz Bikes,2017,28715.3621
+Children Bicycles,Santa Cruz Bikes,2018,15512.0163
+Children Bicycles,Santa Cruz Bikes,,61402.6674
+Children Bicycles,,2016,87680.8696
+Children Bicycles,,2017,146905.4685
+Children Bicycles,,2018,57602.8601
+Children Bicycles,,,292189.1982
+Comfort Bicycles,Baldwin Bikes,2016,110843.4711
+Comfort Bicycles,Baldwin Bikes,2017,114690.3066
+Comfort Bicycles,Baldwin Bikes,2018,38296.0667
+Comfort Bicycles,Baldwin Bikes,,263829.8444
+Comfort Bicycles,Rowlett Bikes,2016,12470.2709
+Comfort Bicycles,Rowlett Bikes,2017,20684.4429
+Comfort Bicycles,Rowlett Bikes,2018,10644.3635
+Comfort Bicycles,Rowlett Bikes,,43799.0773
+Comfort Bicycles,Santa Cruz Bikes,2016,31173.431
+Comfort Bicycles,Santa Cruz Bikes,2017,30439.8338
+Comfort Bicycles,Santa Cruz Bikes,2018,24777.9116
+Comfort Bicycles,Santa Cruz Bikes,,86391.1764
+Comfort Bicycles,,2016,154487.173
+Comfort Bicycles,,2017,165814.5833
+Comfort Bicycles,,2018,73718.3418
+Comfort Bicycles,,,394020.0981
+Cruisers Bicycles,Baldwin Bikes,2016,256530.7301
+Cruisers Bicycles,Baldwin Bikes,2017,273284.0906
+Cruisers Bicycles,Baldwin Bikes,2018,151980.9523
+Cruisers Bicycles,Baldwin Bikes,,681795.773
+Cruisers Bicycles,Rowlett Bikes,2016,40894.8528
+Cruisers Bicycles,Rowlett Bikes,2017,43431.2442
+Cruisers Bicycles,Rowlett Bikes,2018,21790.8897
+Cruisers Bicycles,Rowlett Bikes,,106116.9867
+Cruisers Bicycles,Santa Cruz Bikes,2016,83705.8034
+Cruisers Bicycles,Santa Cruz Bikes,2017,63842.9975
+Cruisers Bicycles,Santa Cruz Bikes,2018,59571.0631
+Cruisers Bicycles,Santa Cruz Bikes,,207119.864
+Cruisers Bicycles,,2016,381131.3863
+Cruisers Bicycles,,2017,380558.3323
+Cruisers Bicycles,,2018,233342.9051
+Cruisers Bicycles,,,995032.6237
+Cyclocross Bicycles,Baldwin Bikes,2016,224144.619
+Cyclocross Bicycles,Baldwin Bikes,2017,221333.8065
+Cyclocross Bicycles,Baldwin Bikes,2018,42296.1361
+Cyclocross Bicycles,Baldwin Bikes,,487774.5616
+Cyclocross Bicycles,Rowlett Bikes,2016,25090.6487
+Cyclocross Bicycles,Rowlett Bikes,2017,28756.5104
+Cyclocross Bicycles,Rowlett Bikes,2018,7089.182
+Cyclocross Bicycles,Rowlett Bikes,,60936.3411
+Cyclocross Bicycles,Santa Cruz Bikes,2016,85392.3662
+Cyclocross Bicycles,Santa Cruz Bikes,2017,44744.6569
+Cyclocross Bicycles,Santa Cruz Bikes,2018,32163.9101
+Cyclocross Bicycles,Santa Cruz Bikes,,162300.9332
+Cyclocross Bicycles,,2016,334627.6339
+Cyclocross Bicycles,,2017,294834.9738
+Cyclocross Bicycles,,2018,81549.2282
+Cyclocross Bicycles,,,711011.8359
+Electric Bikes,Baldwin Bikes,2016,165329.4489
+Electric Bikes,Baldwin Bikes,2017,248038.8905
+Electric Bikes,Baldwin Bikes,2018,189461.442
+Electric Bikes,Baldwin Bikes,,602829.7814
+Electric Bikes,Rowlett Bikes,2016,32489.8917
+Electric Bikes,Rowlett Bikes,2017,11686.7539
+Electric Bikes,Rowlett Bikes,2018,50667.8606
+Electric Bikes,Rowlett Bikes,,94844.5062
+Electric Bikes,Santa Cruz Bikes,2016,82349.7255
+Electric Bikes,Santa Cruz Bikes,2017,32349.4794
+Electric Bikes,Santa Cruz Bikes,2018,104311.2875
+Electric Bikes,Santa Cruz Bikes,,219010.4924
+Electric Bikes,,2016,280169.0661
+Electric Bikes,,2017,292075.1238
+Electric Bikes,,2018,344440.5901
+Electric Bikes,,,916684.78
+Mountain Bikes,Baldwin Bikes,2016,771566.4321
+Mountain Bikes,Baldwin Bikes,2017,794910.6135
+Mountain Bikes,Baldwin Bikes,2018,269915.1808
+Mountain Bikes,Baldwin Bikes,,1836392.2264
+Mountain Bikes,Rowlett Bikes,2016,152019.0722
+Mountain Bikes,Rowlett Bikes,2017,125269.9512
+Mountain Bikes,Rowlett Bikes,2018,39150.6429
+Mountain Bikes,Rowlett Bikes,,316439.6663
+Mountain Bikes,Santa Cruz Bikes,2016,265696.8944
+Mountain Bikes,Santa Cruz Bikes,2017,200761.1097
+Mountain Bikes,Santa Cruz Bikes,2018,95789.6369
+Mountain Bikes,Santa Cruz Bikes,,562247.641
+Mountain Bikes,,2016,1189282.3987
+Mountain Bikes,,2017,1120941.6744
+Mountain Bikes,,2018,404855.4606
+Mountain Bikes,,,2715079.5337
+Road Bikes,Baldwin Bikes,2017,724018.0289
+Road Bikes,Baldwin Bikes,2018,416459.1858
+Road Bikes,Baldwin Bikes,,1140477.2147
+Road Bikes,Rowlett Bikes,2017,160005.2558
+Road Bikes,Rowlett Bikes,2018,57265.7554
+Road Bikes,Rowlett Bikes,,217271.0112
+Road Bikes,Santa Cruz Bikes,2017,162054.8017
+Road Bikes,Santa Cruz Bikes,2018,145295.4604
+Road Bikes,Santa Cruz Bikes,,307350.2621
+Road Bikes,,2017,1046078.0864
+Road Bikes,,2018,619020.4016
+Road Bikes,,,1665098.488
+,Baldwin Bikes,2016,1590598.8805
+,Baldwin Bikes,2017,2479688.3959
+,Baldwin Bikes,2018,1145464.0011
+,Baldwin Bikes,,5215751.2775
+,Rowlett Bikes,2016,271286.1376
+,Rowlett Bikes,2017,404611.6055
+,Rowlett Bikes,2018,191644.5005
+,Rowlett Bikes,,867542.2436
+,Santa Cruz Bikes,2016,565493.5095
+,Santa Cruz Bikes,2017,562908.2411
+,Santa Cruz Bikes,2018,477421.2859
+,Santa Cruz Bikes,,1605823.0365
+,,2016,2427378.5276
+,,2017,3447208.2425
+,,2018,1814529.7875
+,,,7689116.5576

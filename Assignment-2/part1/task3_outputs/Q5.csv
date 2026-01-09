@@ -1,0 +1,141 @@
+brand_name,category_name,year,total_revenue
+Electra,Children Bicycles,2016,87680.8696
+Electra,Children Bicycles,2017,86795.0634
+Electra,Children Bicycles,2018,33129.7869
+Electra,Children Bicycles,,207605.7199
+Electra,Comfort Bicycles,2016,154487.173
+Electra,Comfort Bicycles,2017,59817.7864
+Electra,Comfort Bicycles,2018,57237.1192
+Electra,Comfort Bicycles,,271542.0786
+Electra,Cruisers Bicycles,2016,265121.7463
+Electra,Cruisers Bicycles,2017,217678.0106
+Electra,Cruisers Bicycles,2018,212109.3715
+Electra,Cruisers Bicycles,,694909.1284
+Electra,Electric Bikes,2018,31263.8927
+Electra,Electric Bikes,,31263.8927
+Electra,,2016,507289.7889
+Electra,,2017,364290.8604
+Electra,,2018,333740.1703
+Electra,,,1205320.8196
+Haro,Children Bicycles,2017,24541.5059
+Haro,Children Bicycles,2018,4698.0957
+Haro,Children Bicycles,,29239.6016
+Haro,Mountain Bikes,2017,132420.9906
+Haro,Mountain Bikes,2018,23723.9615
+Haro,Mountain Bikes,,156144.9521
+Haro,,2017,156962.4965
+Haro,,2018,28422.0572
+Haro,,,185384.5537
+Heller,Mountain Bikes,2016,108466.4889
+Heller,Mountain Bikes,2017,41465.8761
+Heller,Mountain Bikes,2018,21526.7107
+Heller,Mountain Bikes,,171459.0757
+Heller,,2016,108466.4889
+Heller,,2017,41465.8761
+Heller,,2018,21526.7107
+Heller,,,171459.0757
+Pure Cycles,Cruisers Bicycles,2016,116009.64
+Pure Cycles,Cruisers Bicycles,2017,28961.1
+Pure Cycles,Cruisers Bicycles,2018,4505.6
+Pure Cycles,Cruisers Bicycles,,149476.34
+Pure Cycles,,2016,116009.64
+Pure Cycles,,2017,28961.1
+Pure Cycles,,2018,4505.6
+Pure Cycles,,,149476.34
+Ritchey,Mountain Bikes,2016,63081.6589
+Ritchey,Mountain Bikes,2017,12704.8306
+Ritchey,Mountain Bikes,2018,3112.4585
+Ritchey,Mountain Bikes,,78898.948
+Ritchey,,2016,63081.6589
+Ritchey,,2017,12704.8306
+Ritchey,,2018,3112.4585
+Ritchey,,,78898.948
+Strider,Children Bicycles,2018,4320.4789
+Strider,Children Bicycles,,4320.4789
+Strider,,2018,4320.4789
+Strider,,,4320.4789
+Sun Bicycles,Children Bicycles,2017,1866.5303
+Sun Bicycles,Children Bicycles,2018,461.958
+Sun Bicycles,Children Bicycles,,2328.4883
+Sun Bicycles,Comfort Bicycles,2017,105996.7969
+Sun Bicycles,Comfort Bicycles,2018,16481.2226
+Sun Bicycles,Comfort Bicycles,,122478.0195
+Sun Bicycles,Cruisers Bicycles,2017,133919.2217
+Sun Bicycles,Cruisers Bicycles,2018,16727.9336
+Sun Bicycles,Cruisers Bicycles,,150647.1553
+Sun Bicycles,Electric Bikes,2017,35645.7715
+Sun Bicycles,Electric Bikes,2018,11403.5269
+Sun Bicycles,Electric Bikes,,47049.2984
+Sun Bicycles,Mountain Bikes,2017,17326.192
+Sun Bicycles,Mountain Bikes,2018,2165.774
+Sun Bicycles,Mountain Bikes,,19491.966
+Sun Bicycles,,2017,294754.5124
+Sun Bicycles,,2018,47240.4151
+Sun Bicycles,,,341994.9275
+Surly,Cyclocross Bicycles,2016,334627.6339
+Surly,Cyclocross Bicycles,2017,91380.5551
+Surly,Cyclocross Bicycles,2018,13636.432
+Surly,Cyclocross Bicycles,,439644.621
+Surly,Mountain Bikes,2016,141472.2348
+Surly,Mountain Bikes,2017,225824.3271
+Surly,Mountain Bikes,2018,74087.5748
+Surly,Mountain Bikes,,441384.1367
+Surly,Road Bikes,2017,34350.6658
+Surly,Road Bikes,2018,34127.6398
+Surly,Road Bikes,,68478.3056
+Surly,,2016,476099.8687
+Surly,,2017,351555.548
+Surly,,2018,121851.6466
+Surly,,,949507.0633
+Trek,Children Bicycles,2017,33702.3689
+Trek,Children Bicycles,2018,14992.5406
+Trek,Children Bicycles,,48694.9095
+Trek,Cyclocross Bicycles,2017,203454.4187
+Trek,Cyclocross Bicycles,2018,67912.7962
+Trek,Cyclocross Bicycles,,271367.2149
+Trek,Electric Bikes,2016,280169.0661
+Trek,Electric Bikes,2017,256429.3523
+Trek,Electric Bikes,2018,301773.1705
+Trek,Electric Bikes,,838371.5889
+Trek,Mountain Bikes,2016,876262.0161
+Trek,Mountain Bikes,2017,691199.458
+Trek,Mountain Bikes,2018,280238.9811
+Trek,Mountain Bikes,,1847700.4552
+Trek,Road Bikes,2017,1011727.4206
+Trek,Road Bikes,2018,584892.7618
+Trek,Road Bikes,,1596620.1824
+Trek,,2016,1156431.0822
+Trek,,2017,2196513.0185
+Trek,,2018,1249810.2502
+Trek,,,4602754.3509
+,Children Bicycles,2016,87680.8696
+,Children Bicycles,2017,146905.4685
+,Children Bicycles,2018,57602.8601
+,Children Bicycles,,292189.1982
+,Comfort Bicycles,2016,154487.173
+,Comfort Bicycles,2017,165814.5833
+,Comfort Bicycles,2018,73718.3418
+,Comfort Bicycles,,394020.0981
+,Cruisers Bicycles,2016,381131.3863
+,Cruisers Bicycles,2017,380558.3323
+,Cruisers Bicycles,2018,233342.9051
+,Cruisers Bicycles,,995032.6237
+,Cyclocross Bicycles,2016,334627.6339
+,Cyclocross Bicycles,2017,294834.9738
+,Cyclocross Bicycles,2018,81549.2282
+,Cyclocross Bicycles,,711011.8359
+,Electric Bikes,2016,280169.0661
+,Electric Bikes,2017,292075.1238
+,Electric Bikes,2018,344440.5901
+,Electric Bikes,,916684.78
+,Mountain Bikes,2016,1189282.3987
+,Mountain Bikes,2017,1120941.6744
+,Mountain Bikes,2018,404855.4606
+,Mountain Bikes,,2715079.5337
+,Road Bikes,2017,1046078.0864
+,Road Bikes,2018,619020.4016
+,Road Bikes,,1665098.488
+,,2016,2427378.5276
+,,2017,3447208.2425
+,,2018,1814529.7875
+,,,7689116.5576
